@@ -18,13 +18,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Qué es internet, cómo funciona un sitio web y para qué sirven HTML y CSS.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE1)
 - **Conceptos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: [Abrir en CodePen](https://codepen.io/pen/)
+- **Empieza a programar**: [Abrir en CodePen](https://codepen.io/JeanArias302511/pen/bNByaQN?editors=1000)
 
 ### Lección 2: Estructura HTML básica (10 minutos)
 - **Descripción**: Aprende las etiquetas fundamentales y crea tu primera página HTML.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE2)
 - **Conceptos clave**: `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`, atributos.
-- **Práctica**: [Clic para programar](https://codepen.io/pen/)
+- **Práctica**: [Clic para programar](https://codepen.io/JeanArias302511/pen/MYbdrLp?editors=1000)
 
 ### Lección 3: Elementos HTML comunes (10 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces a tu página.
