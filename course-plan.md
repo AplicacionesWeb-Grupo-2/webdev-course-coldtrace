@@ -40,7 +40,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 5: Estilo intermedio con CSS (8 minutos)
 - **Descripción**: Centra contenido, agrega bordes, márgenes y relleno.
-- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE5)
+- **Enlace**: [Ver lección](https://youtu.be/xsLf2EEoYwE)
 - **Conceptos clave**: `margin`, `padding`, `border`, `text-align: center`.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/)
 
