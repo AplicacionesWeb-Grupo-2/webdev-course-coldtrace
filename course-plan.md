@@ -28,9 +28,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 3: Elementos HTML comunes (10 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces a tu página.
-- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE3)
+- **Enlace**: [Ver lección](https://youtu.be/tQ74eSsHles)
 - **Conceptos clave**: `<ul>`, `<ol>`, `<li>`, `<img>`, `<a>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/)
+- **Práctica**: [Clic para programar](https://codepen.io/Santiago-Enrique-Vargas-Alarcon/pen/WbRxYWg)
 
 ### Lección 4: Introducción a CSS (10 minutos)
 - **Descripción**: Dale color y estilo a tu HTML con CSS.
