@@ -1,0 +1,43 @@
+/* =============================================
+   LECCIÓN 4: Introducción a CSS — COMPLETO
+   Archivo: styles.css
+   ============================================= */
+
+
+/* SELECTOR DE ETIQUETA: body
+   font-family cambia la fuente de toda la página
+   background-color cambia el fondo             */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+}
+
+
+/* SELECTOR DE ETIQUETA: h1
+   color cambia el color del texto              */
+h1 {
+  color: steelblue;
+}
+
+
+/* SELECTOR DE ETIQUETA: h2
+   Usamos un código hexadecimal para el color   */
+h2 {
+  color: #2c3e50;
+}
+
+
+/* SELECTOR DE CLASE: .destacado
+   background-color + color sobre un elemento   */
+.destacado {
+  background-color: #fef9c3;
+  color: #7c6200;
+}
+
+
+/* SELECTOR DE ETIQUETA: footer
+   Fondo oscuro con texto claro                 */
+footer {
+  background-color: #2c3e50;
+  color: #ffffff;
+}
