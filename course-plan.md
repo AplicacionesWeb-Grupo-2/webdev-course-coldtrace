@@ -34,7 +34,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 4: Introducción a CSS (10 minutos)
 - **Descripción**: Dale color y estilo a tu HTML con CSS.
-- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE4)
+- **Enlace**: [Ver lección](https://youtu.be/AP0LZ4W_u74?si=7cs6VmVHGwu7rVS-)
 - **Conceptos clave**: Vincular CSS, selectores, `color`, `background-color`, `font-family`.
 - **Práctica**: [Aplicar estilos](https://codepen.io/Leonardo-Delgado-the-looper/pen/MYJjgWj)
 
