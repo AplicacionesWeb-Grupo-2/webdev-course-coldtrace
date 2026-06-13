@@ -1,0 +1,48 @@
+/* =============================================
+   LECCIÓN 4: Introducción a CSS
+   Archivo: styles.css
+   ============================================= */
+
+
+/* PASO 1: SELECTOR DE ETIQUETA
+   Aquí aplicaremos estilos al <body>
+   Probaremos: font-family y background-color
+   -------------------------------------------*/
+body {
+
+}
+
+
+/* PASO 2: SELECTOR DE ETIQUETA — h1
+   Aquí cambiaremos el color del título principal
+   Probaremos: color
+   -------------------------------------------*/
+h1 {
+
+}
+
+
+/* PASO 3: SELECTOR DE ETIQUETA — h2
+   Aquí cambiaremos el color de los subtítulos
+   -------------------------------------------*/
+h2 {
+
+}
+
+
+/* PASO 4: SELECTOR DE CLASE — .destacado
+   Primero agregaremos class="destacado" en el HTML
+   Luego aplicaremos: background-color y color
+   -------------------------------------------*/
+.destacado {
+
+}
+
+
+/* PASO 5: SELECTOR DE ETIQUETA — footer
+   Aquí daremos estilo al pie de página
+   Probaremos: background-color y color
+   -------------------------------------------*/
+footer {
+
+}
