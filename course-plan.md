@@ -36,7 +36,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Dale color y estilo a tu HTML con CSS.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE4)
 - **Conceptos clave**: Vincular CSS, selectores, `color`, `background-color`, `font-family`.
-- **Práctica**: [Aplicar estilos](https://codepen.io/pen/](https://codepen.io/Leonardo-Delgado-the-looper/pen/MYJjgWj))
+- **Práctica**: [Aplicar estilos](https://codepen.io/pen/](https://codepen.io/Leonardo-Delgado-the-looper/pen/MYJjgWj)
 
 ### Lección 5: Estilo intermedio con CSS (8 minutos)
 - **Descripción**: Centra contenido, agrega bordes, márgenes y relleno.
