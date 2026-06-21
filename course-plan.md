@@ -54,7 +54,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Repaso de errores frecuentes en principiantes y recursos para seguir aprendiendo.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE7)
 - **Conceptos clave**: Validar código, explorar [MDN Web Docs](https://developer.mozilla.org/es/).
-- **Comparte tu trabajo**: [Envía tu creación](https://forms.gle/TU-FORMULARIO)
+- **Práctica**: [Revisar y corregir errores](https://codepen.io/pen/)
 
 ---
 
