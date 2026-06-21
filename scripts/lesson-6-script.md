@@ -9,8 +9,8 @@ En esta lección el ejemplo será una **tarjeta de perfil personal**. La página
 - Clases para seleccionar elementos.
 - Propiedades de CSS como `background-color`, `color`, `font-family`, `max-width`, `margin`, `padding`, `border`, `border-radius`, `text-align` y `line-height`.
 
-Archivo de inicio: `starter-files/lesson-6-profile-starter.html`  
-Archivo completo: `completed-examples/lesson-6-profile-complete.html`
+Archivos de inicio: `starter-files/lesson-6-profile-starter.html` y `starter-files/lesson-6-profile-starter.css`.
+Archivos completos: `completed-examples/lesson-6-profile-complete.html` y `completed-examples/lesson-6-profile-complete.css`.
 
 ---
 
@@ -35,6 +35,13 @@ Hasta ahora vimos HTML para crear contenido y CSS para darle estilo. Hoy vamos a
 **Narración:**
 Empezamos con una estructura HTML lista para completar.
 Tenemos un `div` con la clase `perfil`. Dentro colocamos una imagen, un título, un subtítulo, un párrafo, una lista de habilidades y un enlace.
+En el `<head>` también conectamos el archivo CSS externo:
+
+```html
+<link rel="stylesheet" href="lesson-6-profile-starter.css">
+```
+
+Esta línea permite mantener el contenido en el HTML y los estilos en un archivo separado.
 
 ```html
 <div class="perfil">
@@ -63,7 +70,7 @@ Estas clases nos van a permitir aplicar estilos específicos sin afectar toda la
 
 ### Preparar estilos generales
 
-*Pantalla: enfocar el bloque `<style>`*
+*Pantalla: abrir `lesson-6-profile-starter.css`*
 
 **Narración:**
 Primero quitamos el margen y el padding que el navegador agrega por defecto.

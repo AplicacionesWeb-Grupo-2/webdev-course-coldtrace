@@ -4,8 +4,8 @@
 
 En esta lección se revisa una versión con errores de la misma tarjeta de perfil personal creada en la lección 6. El objetivo no es construir una página nueva, sino aprender a detectar y corregir problemas frecuentes.
 
-Archivo con errores: `starter-files/lesson-7-debug-starter.html`  
-Archivo corregido: `completed-examples/lesson-7-debug-complete.html`
+Archivos con errores: `starter-files/lesson-7-debug-starter.html` y `starter-files/lesson-7-debug-starter.css`.
+Archivos corregidos: `completed-examples/lesson-7-debug-complete.html` y `completed-examples/lesson-7-debug-complete.css`.
 
 Errores que se corrigen en el video:
 
@@ -34,7 +34,7 @@ Vamos a corregir una versión con errores de nuestra página de perfil.
 
 ### Error 1: la clase no coincide
 
-*Pantalla: mostrar el CSS `.perfil-card` y el HTML `<div class="perfil">`*
+*Pantalla: mostrar `.perfil-card` en `lesson-7-debug-starter.css` y `<div class="perfil">` en `lesson-7-debug-starter.html`*
 
 **Narración:**
 El primer error está en las clases.
