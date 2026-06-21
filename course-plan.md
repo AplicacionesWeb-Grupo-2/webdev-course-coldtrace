@@ -49,12 +49,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE6)
 - **Conceptos clave**: Integrar HTML + CSS, depurar errores básicos.
 - **Proyecto final**: [Crear tu perfil](https://replit.com/)
+- **Material local**: [Starter](starter-files/lesson-6-profile-starter.html) | [Ejemplo completo](completed-examples/lesson-6-profile-complete.html) | [Guion](scripts/lesson-6-script.md)
 
 ### Lección 7: Errores comunes y próximos pasos (5 minutos)
 - **Descripción**: Repaso de errores frecuentes en principiantes y recursos para seguir aprendiendo.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE7)
 - **Conceptos clave**: Validar código, explorar [MDN Web Docs](https://developer.mozilla.org/es/).
 - **Comparte tu trabajo**: [Envía tu creación](https://forms.gle/TU-FORMULARIO)
+- **Material local**: [Starter con errores](starter-files/lesson-7-debug-starter.html) | [Ejemplo corregido](completed-examples/lesson-7-debug-complete.html) | [Guion](scripts/lesson-7-script.md)
 
 ---
 
