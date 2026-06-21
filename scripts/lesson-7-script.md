@@ -6,7 +6,6 @@ En esta lección se revisa una versión con errores de la misma tarjeta de perfi
 
 Archivos con errores: `starter-files/lesson-7-debug-starter.html` y `starter-files/lesson-7-debug-starter.css`.
 Archivos corregidos: `completed-examples/lesson-7-debug-complete.html` y `completed-examples/lesson-7-debug-complete.css`.
-Para CodePen, usar `starter-files/lesson-7-debug-codepen.html` en el panel HTML y `starter-files/lesson-7-debug-starter.css` en el panel CSS.
 
 Errores que se corrigen en el video:
 
@@ -35,7 +34,7 @@ Vamos a corregir una versión con errores de nuestra página de perfil.
 
 ### Error 1: la clase no coincide
 
-*Pantalla: mostrar `.perfil-card` en el panel CSS y `<div class="perfil">` en el panel HTML de CodePen*
+*Pantalla: mostrar `.perfil-card` en `lesson-7-debug-starter.css` y `<div class="perfil">` en `lesson-7-debug-starter.html`*
 
 **Narración:**
 El primer error está en las clases.

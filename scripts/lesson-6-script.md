@@ -11,7 +11,6 @@ En esta lección el ejemplo será una **tarjeta de perfil personal**. La página
 
 Archivos de inicio: `starter-files/lesson-6-profile-starter.html` y `starter-files/lesson-6-profile-starter.css`.
 Archivos completos: `completed-examples/lesson-6-profile-complete.html` y `completed-examples/lesson-6-profile-complete.css`.
-Para CodePen, usar `starter-files/lesson-6-profile-codepen.html` en el panel HTML y `starter-files/lesson-6-profile-starter.css` en el panel CSS.
 
 ---
 
@@ -31,13 +30,18 @@ Hasta ahora vimos HTML para crear contenido y CSS para darle estilo. Hoy vamos a
 
 ### Revisar la estructura inicial
 
-*Pantalla: abrir `lesson-6-profile-codepen.html` en el panel HTML de CodePen*
+*Pantalla: abrir `lesson-6-profile-starter.html`*
 
 **Narración:**
 Empezamos con una estructura HTML lista para completar.
 Tenemos un `div` con la clase `perfil`. Dentro colocamos una imagen, un título, un subtítulo, un párrafo, una lista de habilidades y un enlace.
-Importante: en CodePen no pegamos `<!DOCTYPE html>`, `<html>`, `<head>` ni `<body>`.
-El panel HTML recibe solo el contenido que iría dentro del `<body>`.
+En el `<head>` también conectamos el archivo CSS externo:
+
+```html
+<link rel="stylesheet" href="lesson-6-profile-starter.css">
+```
+
+Esta línea permite mantener el contenido en el HTML y los estilos en un archivo separado.
 
 ```html
 <div class="perfil">
@@ -66,7 +70,7 @@ Estas clases nos van a permitir aplicar estilos específicos sin afectar toda la
 
 ### Preparar estilos generales
 
-*Pantalla: abrir `lesson-6-profile-starter.css` en el panel CSS de CodePen*
+*Pantalla: abrir `lesson-6-profile-starter.css`*
 
 **Narración:**
 Primero quitamos el margen y el padding que el navegador agrega por defecto.
