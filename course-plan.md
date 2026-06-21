@@ -48,7 +48,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Combina todo lo aprendido para construir una página de perfil personal.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE6)
 - **Conceptos clave**: Integrar HTML + CSS, depurar errores básicos.
-- **Proyecto final**: [Crear tu perfil](https://replit.com/)
+- **Proyecto final**: [Crear tu perfil](https://codepen.io/mauricio_pajes/pen/VYPpJMG)
 
 ### Lección 7: Errores comunes y próximos pasos (5 minutos)
 - **Descripción**: Repaso de errores frecuentes en principiantes y recursos para seguir aprendiendo.
@@ -71,7 +71,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 3 | Añadir imágenes y listas | [JSFiddle](https://jsfiddle.net/) |
 | 4 | Estilo básico con CSS | [CodePen](https://codepen.io/pen/) |
 | 5 | Márgenes y bordes | [CodePen](https://codepen.io/pen/) |
-| 6 | Página de perfil completa | [Replit](https://replit.com/) |
+| 6 | Página de perfil completa | [CodePen](https://codepen.io/mauricio_pajes/pen/VYPpJMG) |
 | 7 | Repaso y validación | [CodePen](https://codepen.io/pen/) |
 
 ---
