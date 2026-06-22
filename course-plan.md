@@ -8,7 +8,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
-**Repositorio de código fuente**: [https://github.com/TU-ORG/webdev-course-coldtrace](https://github.com/AplicacionesWeb-Grupo-2/webdev-course-coldtrace)
+**Repositorio de código fuente**: [https://github.com/AplicacionesWeb-Grupo-2/webdev-course-coldtrace](https://github.com/AplicacionesWeb-Grupo-2/webdev-course-coldtrace)
 
 ---
 
@@ -54,7 +54,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Repaso de errores frecuentes en principiantes y recursos para seguir aprendiendo.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=VIylmZ-wAR4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=7)
 - **Conceptos clave**: Validar código, explorar [MDN Web Docs](https://developer.mozilla.org/es/).
-- **Práctica**: [Revisar y corregir errores](https://codepen.io/pen/)
+- **Práctica**: [Revisar y corregir errores](https://codepen.io/mauricio_pajes/pen/KwaWOGR)
 
 ---
 
@@ -66,13 +66,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 | Lección | Actividad | Empezar a programar |
 |---------|-----------|---------------------|
-| 1 | Explorar sitios web | [CodePen](https://codepen.io/pen/) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/pen/) |
-| 3 | Añadir imágenes y listas | [JSFiddle](https://jsfiddle.net/) |
-| 4 | Estilo básico con CSS | [CodePen](https://codepen.io/pen/) |
+| 1 | Explorar sitios web | [CodePen](https://codepen.io/JeanArias302511/pen/bNByaQN?editors=1000) |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/JeanArias302511/pen/MYbdrLp?editors=1000) |
+| 3 | Añadir imágenes y listas | [CodePen](https://codepen.io/Santiago-Enrique-Vargas-Alarcon/pen/WbRxYWg) |
+| 4 | Estilo básico con CSS | [CodePen](https://codepen.io/Leonardo-Delgado-the-looper/pen/MYJjgWj) |
 | 5 | Márgenes y bordes | [CodePen](https://codepen.io/pen/) |
 | 6 | Página de perfil completa | [CodePen](https://codepen.io/mauricio_pajes/pen/VYPpJMG) |
-| 7 | Repaso y validación | [CodePen](https://codepen.io/pen/) |
+| 7 | Repaso y validación | [CodePen](https://codepen.io/mauricio_pajes/pen/KwaWOGR) |
 
 ---
 
