@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lección 3: HTML Básico</title>
+</head>
+<body>
+
+    <!-- EJERCICIO 1: Titulos y subtitulos con las etiquetas <h1> a <h6> -->
+
+    <hr> 
+
+    <!-- EJERCICIO 2: Parrafos y citas -->
+
+    <hr>
+
+   <!-- EJERCICIO 3: Listas ordenadas y desordenadas -->
+
+    <hr>
+
+    <!-- EJERCICIO 4: Imagenes -->
+
+    <hr>
+
+   <!-- EJERCICIO 5: Enlaces -->
+
+</body>
+</html>
