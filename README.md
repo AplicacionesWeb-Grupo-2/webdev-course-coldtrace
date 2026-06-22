@@ -85,12 +85,12 @@ webdev-course-coldtrace/
 | # | Lección | Tiempo | Video | Práctica | Código inicial | Ejemplo completo |
 |---|---|---:|---|---|---|---|
 | 1 | Qué es un sitio web | 5 min | [Ver](https://www.youtube.com/watch?v=S4DXLZlkeTU&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=1) | [Abrir](https://codepen.io/JeanArias302511/pen/bNByaQN?editors=1000) | [HTML](starter-files/lesson-1-web-starter.html) | [HTML](completed-examples/lesson-1-web-complete.html) |
-| 2 | Estructura HTML básica | 10 min | [Ver](https://www.youtube.com/watch?v=IFrZGJuoBRE&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=2) | [Abrir](https://codepen.io/JeanArias302511/pen/MYbdrLp?editors=1000) | [HTML](starter-files/lesson-2-html-starter.html) | [HTML](completed-examples/lesson-2-html-complete.html) |
-| 3 | Elementos HTML comunes | 10 min | [Ver](https://www.youtube.com/watch?v=1LdO_lwPUA4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=3) | [Abrir](https://codepen.io/Santiago-Enrique-Vargas-Alarcon/pen/WbRxYWg) | [HTML](starter-files/lesson-3-html-fundamentals-starter.html) | [HTML](completed-examples/lesson-3-html-fundamentals.html) |
-| 4 | Introducción a CSS | 10 min | [Ver](https://www.youtube.com/watch?v=JNMUOQSiXDY&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=4) | [Abrir](https://codepen.io/Leonardo-Delgado-the-looper/pen/MYJjgWj) | [HTML](starter-files/lesson-4-starter.html) / [CSS](starter-files/lesson-4-starter.css) | [HTML](completed-examples/lesson-4-complete.html) / [CSS](completed-examples/lesson-4-complete.css) |
+| 2 | Estructura HTML básica | 6 min | [Ver](https://www.youtube.com/watch?v=IFrZGJuoBRE&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=2) | [Abrir](https://codepen.io/JeanArias302511/pen/MYbdrLp?editors=1000) | [HTML](starter-files/lesson-2-html-starter.html) | [HTML](completed-examples/lesson-2-html-complete.html) |
+| 3 | Elementos HTML comunes | 11 min | [Ver](https://www.youtube.com/watch?v=1LdO_lwPUA4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=3) | [Abrir](https://codepen.io/Santiago-Enrique-Vargas-Alarcon/pen/WbRxYWg) | [HTML](starter-files/lesson-3-html-fundamentals-starter.html) | [HTML](completed-examples/lesson-3-html-fundamentals.html) |
+| 4 | Introducción a CSS | 9 min | [Ver](https://www.youtube.com/watch?v=JNMUOQSiXDY&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=4) | [Abrir](https://codepen.io/Leonardo-Delgado-the-looper/pen/MYJjgWj) | [HTML](starter-files/lesson-4-starter.html) / [CSS](starter-files/lesson-4-starter.css) | [HTML](completed-examples/lesson-4-complete.html) / [CSS](completed-examples/lesson-4-complete.css) |
 | 5 | Estilo intermedio con CSS | 8 min | [Ver](https://www.youtube.com/watch?v=aRNtSJqWAY4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=5) | [Abrir](https://codepen.io/mauricio_pajes/pen/rajyXgR) | [HTML](starter-files/lesson-5-css-starter.html) | [HTML](completed-examples/lesson-5-css-complete.html) |
-| 6 | Proyecto: página de perfil | 12 min | [Ver](https://www.youtube.com/watch?v=zN4CG2jeoQk&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=6) | [Abrir](https://codepen.io/mauricio_pajes/pen/VYPpJMG) | [HTML](starter-files/lesson-6-profile-starter.html) / [CSS](starter-files/lesson-6-profile-starter.css) | [HTML](completed-examples/lesson-6-profile-complete.html) / [CSS](completed-examples/lesson-6-profile-complete.css) |
-| 7 | Errores comunes y próximos pasos | 5 min | [Ver](https://www.youtube.com/watch?v=VIylmZ-wAR4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=7) | [Abrir](https://codepen.io/mauricio_pajes/pen/KwaWOGR) | [HTML](starter-files/lesson-7-debug-starter.html) / [CSS](starter-files/lesson-7-debug-starter.css) | [HTML](completed-examples/lesson-7-debug-complete.html) / [CSS](completed-examples/lesson-7-debug-complete.css) |
+| 6 | Proyecto: página de perfil | 14 min | [Ver](https://www.youtube.com/watch?v=zN4CG2jeoQk&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=6) | [Abrir](https://codepen.io/mauricio_pajes/pen/VYPpJMG) | [HTML](starter-files/lesson-6-profile-starter.html) / [CSS](starter-files/lesson-6-profile-starter.css) | [HTML](completed-examples/lesson-6-profile-complete.html) / [CSS](completed-examples/lesson-6-profile-complete.css) |
+| 7 | Errores comunes y próximos pasos | 7 min | [Ver](https://www.youtube.com/watch?v=VIylmZ-wAR4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=7) | [Abrir](https://codepen.io/mauricio_pajes/pen/KwaWOGR) | [HTML](starter-files/lesson-7-debug-starter.html) / [CSS](starter-files/lesson-7-debug-starter.css) | [HTML](completed-examples/lesson-7-debug-complete.html) / [CSS](completed-examples/lesson-7-debug-complete.css) |
 
 <br>
 
@@ -103,7 +103,7 @@ webdev-course-coldtrace/
 
 <br>
 
-### Lección 2: Estructura HTML básica (10 minutos)
+### Lección 2: Estructura HTML básica (6 minutos)
 
 - **Descripción**: Aprende las etiquetas fundamentales y crea tu primera página HTML.
 - **Ver video**: [YouTube](https://www.youtube.com/watch?v=IFrZGJuoBRE&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=2)
@@ -112,7 +112,7 @@ webdev-course-coldtrace/
 
 <br>
 
-### Lección 3: Elementos HTML comunes (10 minutos)
+### Lección 3: Elementos HTML comunes (11 minutos)
 
 - **Descripción**: Agrega listas, imágenes y enlaces a tu página.
 - **Ver video**: [YouTube](https://www.youtube.com/watch?v=1LdO_lwPUA4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=3)
@@ -121,7 +121,7 @@ webdev-course-coldtrace/
 
 <br>
 
-### Lección 4: Introducción a CSS (10 minutos)
+### Lección 4: Introducción a CSS (9 minutos)
 
 - **Descripción**: Dale color y estilo a tu HTML con CSS.
 - **Ver video**: [YouTube](https://www.youtube.com/watch?v=JNMUOQSiXDY&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=4)
@@ -139,7 +139,7 @@ webdev-course-coldtrace/
 
 <br>
 
-### Lección 6: Proyecto - Página de perfil (12 minutos)
+### Lección 6: Proyecto - Página de perfil (14 minutos)
 
 - **Descripción**: Combina todo lo aprendido para construir una página de perfil personal.
 - **Ver video**: [YouTube](https://www.youtube.com/watch?v=zN4CG2jeoQk&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=6)
@@ -148,7 +148,7 @@ webdev-course-coldtrace/
 
 <br>
 
-### Lección 7: Errores comunes y próximos pasos (5 minutos)
+### Lección 7: Errores comunes y próximos pasos (7 minutos)
 
 - **Descripción**: Repaso de errores frecuentes en principiantes y recursos para seguir aprendiendo.
 - **Ver video**: [YouTube](https://www.youtube.com/watch?v=VIylmZ-wAR4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=7)

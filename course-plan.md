@@ -20,19 +20,19 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Conceptos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Abrir en CodePen](https://codepen.io/JeanArias302511/pen/bNByaQN?editors=1000)
 
-### Lección 2: Estructura HTML básica (10 minutos)
+### Lección 2: Estructura HTML básica (6 minutos)
 - **Descripción**: Aprende las etiquetas fundamentales y crea tu primera página HTML.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=IFrZGJuoBRE&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=2)
 - **Conceptos clave**: `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`, atributos.
 - **Práctica**: [Clic para programar](https://codepen.io/JeanArias302511/pen/MYbdrLp?editors=1000)
 
-### Lección 3: Elementos HTML comunes (10 minutos)
+### Lección 3: Elementos HTML comunes (11 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces a tu página.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=1LdO_lwPUA4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=3)
 - **Conceptos clave**: `<ul>`, `<ol>`, `<li>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://codepen.io/Santiago-Enrique-Vargas-Alarcon/pen/WbRxYWg)
 
-### Lección 4: Introducción a CSS (10 minutos)
+### Lección 4: Introducción a CSS (9 minutos)
 - **Descripción**: Dale color y estilo a tu HTML con CSS.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=JNMUOQSiXDY&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=4)
 - **Conceptos clave**: Vincular CSS, selectores, `color`, `background-color`, `font-family`.
@@ -44,13 +44,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Conceptos clave**: `margin`, `padding`, `border`, `text-align: center`.
 - **Práctica**: [Clic para programar](https://codepen.io/mauricio_pajes/pen/rajyXgR)
 
-### Lección 6: Proyecto — Página de perfil (12 minutos)
+### Lección 6: Proyecto — Página de perfil (14 minutos)
 - **Descripción**: Combina todo lo aprendido para construir una página de perfil personal.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=zN4CG2jeoQk&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=6)
 - **Conceptos clave**: Integrar HTML + CSS, depurar errores básicos.
 - **Proyecto final**: [Crear tu perfil](https://codepen.io/mauricio_pajes/pen/VYPpJMG)
 
-### Lección 7: Errores comunes y próximos pasos (5 minutos)
+### Lección 7: Errores comunes y próximos pasos (7 minutos)
 - **Descripción**: Repaso de errores frecuentes en principiantes y recursos para seguir aprendiendo.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=VIylmZ-wAR4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=7)
 - **Conceptos clave**: Validar código, explorar [MDN Web Docs](https://developer.mozilla.org/es/).
