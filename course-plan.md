@@ -42,7 +42,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Centra contenido, agrega bordes, márgenes y relleno.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=aRNtSJqWAY4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=5)
 - **Conceptos clave**: `margin`, `padding`, `border`, `text-align: center`.
-- **Práctica**: [Clic para programar](https://codepen.io/pen/)
+- **Práctica**: [Clic para programar](https://codepen.io/mauricio_pajes/pen/rajyXgR)
 
 ### Lección 6: Proyecto — Página de perfil (12 minutos)
 - **Descripción**: Combina todo lo aprendido para construir una página de perfil personal.
@@ -70,9 +70,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 2 | Primera página HTML | [CodePen](https://codepen.io/JeanArias302511/pen/MYbdrLp?editors=1000) |
 | 3 | Añadir imágenes y listas | [CodePen](https://codepen.io/Santiago-Enrique-Vargas-Alarcon/pen/WbRxYWg) |
 | 4 | Estilo básico con CSS | [CodePen](https://codepen.io/Leonardo-Delgado-the-looper/pen/MYJjgWj) |
-| 5 | Márgenes y bordes | [CodePen](https://codepen.io/pen/) |
+| 5 | Márgenes y bordes | [CodePen](https://codepen.io/mauricio_pajes/pen/rajyXgR) |
 | 6 | Página de perfil completa | [CodePen](https://codepen.io/mauricio_pajes/pen/VYPpJMG) |
 | 7 | Repaso y validación | [CodePen](https://codepen.io/mauricio_pajes/pen/KwaWOGR) |
+
+---
+
+## Resumen de elaboración en equipo
+
+El equipo organizó el curso en siete lecciones progresivas para cubrir los fundamentos de HTML y CSS sin requerir instalaciones locales. Jean Arias preparó la base del repositorio y las lecciones 1 y 2. Santiago Vargas desarrolló la lección 3 sobre elementos HTML comunes. Leonardo Delgado trabajó la lección 4 de introducción a CSS. Eduardo Velásquez elaboró la lección 5 de estilo intermedio con CSS. Mauricio Pajés desarrolló las lecciones 6 y 7, consolidó los enlaces finales, revisó la consistencia del repositorio y preparó la documentación final.
 
 ---
 

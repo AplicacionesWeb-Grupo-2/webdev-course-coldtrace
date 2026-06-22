@@ -87,7 +87,7 @@ webdev-course-coldtrace/
 | 2 | Estructura HTML básica | 10 min | [Ver](https://www.youtube.com/watch?v=IFrZGJuoBRE&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=2) | [Abrir](https://codepen.io/JeanArias302511/pen/MYbdrLp?editors=1000) | [HTML](starter-files/lesson-2-html-starter.html) | [HTML](completed-examples/lesson-2-html-complete.html) |
 | 3 | Elementos HTML comunes | 10 min | [Ver](https://www.youtube.com/watch?v=1LdO_lwPUA4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=3) | [Abrir](https://codepen.io/Santiago-Enrique-Vargas-Alarcon/pen/WbRxYWg) | - | [HTML](completed-examples/lesson-3-html-fundamentals.html) |
 | 4 | Introducción a CSS | 10 min | [Ver](https://www.youtube.com/watch?v=JNMUOQSiXDY&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=4) | [Abrir](https://codepen.io/Leonardo-Delgado-the-looper/pen/MYJjgWj) | [HTML](starter-files/lesson-4-starter.html) / [CSS](starter-files/lesson-4-starter.css) | [HTML](completed-examples/lesson-4-complete.html) / [CSS](completed-examples/lesson-4-complete.css) |
-| 5 | Estilo intermedio con CSS | 8 min | [Ver](https://www.youtube.com/watch?v=aRNtSJqWAY4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=5) | [Abrir](https://codepen.io/pen/) | [HTML](starter-files/lesson-5-css-starter.html) | [HTML](completed-examples/lesson-5-css-complete.html) |
+| 5 | Estilo intermedio con CSS | 8 min | [Ver](https://www.youtube.com/watch?v=aRNtSJqWAY4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=5) | [Abrir](https://codepen.io/mauricio_pajes/pen/rajyXgR) | [HTML](starter-files/lesson-5-css-starter.html) | [HTML](completed-examples/lesson-5-css-complete.html) |
 | 6 | Proyecto: página de perfil | 12 min | [Ver](https://www.youtube.com/watch?v=zN4CG2jeoQk&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=6) | [Abrir](https://codepen.io/mauricio_pajes/pen/VYPpJMG) | [HTML](starter-files/lesson-6-profile-starter.html) / [CSS](starter-files/lesson-6-profile-starter.css) | [HTML](completed-examples/lesson-6-profile-complete.html) / [CSS](completed-examples/lesson-6-profile-complete.css) |
 | 7 | Errores comunes y próximos pasos | 5 min | [Ver](https://www.youtube.com/watch?v=VIylmZ-wAR4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=7) | [Abrir](https://codepen.io/mauricio_pajes/pen/KwaWOGR) | [HTML](starter-files/lesson-7-debug-starter.html) / [CSS](starter-files/lesson-7-debug-starter.css) | [HTML](completed-examples/lesson-7-debug-complete.html) / [CSS](completed-examples/lesson-7-debug-complete.css) |
 
@@ -134,7 +134,7 @@ webdev-course-coldtrace/
 - **Descripción**: Centra contenido, agrega bordes, márgenes y relleno.
 - **Ver video**: [YouTube](https://www.youtube.com/watch?v=aRNtSJqWAY4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=5)
 - **Conceptos clave**: `margin`, `padding`, `border`, `text-align: center`.
-- **Práctica**: [Abrir en CodePen](https://codepen.io/pen/) · [Código inicial](starter-files/lesson-5-css-starter.html) · [Solución completa](completed-examples/lesson-5-css-complete.html)
+- **Práctica**: [Abrir en CodePen](https://codepen.io/mauricio_pajes/pen/rajyXgR) · [Código inicial](starter-files/lesson-5-css-starter.html) · [Solución completa](completed-examples/lesson-5-css-complete.html)
 
 <br>
 
@@ -176,6 +176,12 @@ webdev-course-coldtrace/
 - [MDN Web Docs - CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 - [CodePen Documentation](https://blog.codepen.io/documentation/)
 - [GitHub Docs](https://docs.github.com/)
+
+---
+
+## Resumen de Elaboración en Equipo
+
+El equipo organizó el curso en siete lecciones progresivas para cubrir los fundamentos de HTML y CSS sin requerir instalaciones locales. Jean Arias preparó la base del repositorio y las lecciones 1 y 2. Santiago Vargas desarrolló la lección 3 sobre elementos HTML comunes. Leonardo Delgado trabajó la lección 4 de introducción a CSS. Eduardo Velásquez elaboró la lección 5 de estilo intermedio con CSS. Mauricio Pajés desarrolló las lecciones 6 y 7, consolidó los enlaces finales, revisó la consistencia del repositorio y preparó la documentación final.
 
 ---
 

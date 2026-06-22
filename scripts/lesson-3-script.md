@@ -1,4 +1,4 @@
-Buenos días, buenas tardes y buenas noches. Mi nombre es Santiago Enrique Vargas Alarcón, de código U202416706, y el día de hoy les voy a presentar lo que sería la lección 3 del curso sobre HTML básico para el curso de aplicaciones web.
+Buenos días, buenas tardes y buenas noches. En esta lección vamos a aprender elementos HTML comunes para construir páginas más completas.
 
 Ahora vamos a empezar. En esta lección vamos a aprender conceptos básicos de lo que serían etiquetas, encabezados, párrafos y distintas de estas etiquetas que uno va a utilizar de forma constante a la hora de realizar HTML, aunque no tanto como programar, ya que HTML no es un lenguaje de programación en sí.
 
