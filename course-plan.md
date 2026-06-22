@@ -16,43 +16,43 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 1: ¿Qué es un sitio web? (5 minutos)
 - **Descripción**: Qué es internet, cómo funciona un sitio web y para qué sirven HTML y CSS.
-- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE1)
+- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=S4DXLZlkeTU&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=1)
 - **Conceptos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Abrir en CodePen](https://codepen.io/JeanArias302511/pen/bNByaQN?editors=1000)
 
 ### Lección 2: Estructura HTML básica (10 minutos)
 - **Descripción**: Aprende las etiquetas fundamentales y crea tu primera página HTML.
-- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE2)
+- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=IFrZGJuoBRE&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=2)
 - **Conceptos clave**: `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`, atributos.
 - **Práctica**: [Clic para programar](https://codepen.io/JeanArias302511/pen/MYbdrLp?editors=1000)
 
 ### Lección 3: Elementos HTML comunes (10 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces a tu página.
-- **Enlace**: [Ver lección](https://youtu.be/tQ74eSsHles)
+- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=1LdO_lwPUA4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=3)
 - **Conceptos clave**: `<ul>`, `<ol>`, `<li>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://codepen.io/Santiago-Enrique-Vargas-Alarcon/pen/WbRxYWg)
 
 ### Lección 4: Introducción a CSS (10 minutos)
 - **Descripción**: Dale color y estilo a tu HTML con CSS.
-- **Enlace**: [Ver lección](https://youtu.be/AP0LZ4W_u74?si=7cs6VmVHGwu7rVS-)
+- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=JNMUOQSiXDY&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=4)
 - **Conceptos clave**: Vincular CSS, selectores, `color`, `background-color`, `font-family`.
 - **Práctica**: [Aplicar estilos](https://codepen.io/Leonardo-Delgado-the-looper/pen/MYJjgWj)
 
 ### Lección 5: Estilo intermedio con CSS (8 minutos)
 - **Descripción**: Centra contenido, agrega bordes, márgenes y relleno.
-- **Enlace**: [Ver lección](https://youtu.be/xsLf2EEoYwE)
+- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=aRNtSJqWAY4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=5)
 - **Conceptos clave**: `margin`, `padding`, `border`, `text-align: center`.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/)
 
 ### Lección 6: Proyecto — Página de perfil (12 minutos)
 - **Descripción**: Combina todo lo aprendido para construir una página de perfil personal.
-- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE6)
+- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=zN4CG2jeoQk&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=6)
 - **Conceptos clave**: Integrar HTML + CSS, depurar errores básicos.
 - **Proyecto final**: [Crear tu perfil](https://codepen.io/mauricio_pajes/pen/VYPpJMG)
 
 ### Lección 7: Errores comunes y próximos pasos (5 minutos)
 - **Descripción**: Repaso de errores frecuentes en principiantes y recursos para seguir aprendiendo.
-- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE7)
+- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=VIylmZ-wAR4&list=PLKPPKLNzMUY-RJpTt9pgY21eU9I4bAse8&index=7)
 - **Conceptos clave**: Validar código, explorar [MDN Web Docs](https://developer.mozilla.org/es/).
 - **Práctica**: [Revisar y corregir errores](https://codepen.io/pen/)
 
